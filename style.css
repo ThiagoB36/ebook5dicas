@@ -70,13 +70,16 @@ h2 {
 
 ul {
   padding-left: 20px;
+  list-style: none;
+  padding-left: 1.5em;
+  position: relative;
 }
 
 ul li {
   font-size: 1.4rem;
   margin-bottom: 10px;
   position: relative;
-  padding-left: 25px;
+  padding-left: 1.5em;
 }
 
 ul li::before {
